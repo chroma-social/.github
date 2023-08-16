@@ -1,1 +1,1 @@
-![chroma](chroma.png)
+![chroma](profile/chroma.png)
