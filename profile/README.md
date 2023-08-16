@@ -1,1 +1,1 @@
-# Chroma.social
+![chroma](chroma.png)
